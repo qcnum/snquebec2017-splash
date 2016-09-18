@@ -71,7 +71,7 @@ header {
 
         .place,.date{
             display: inline-block;
-            color: white;
+            color: black;
             text-transform: uppercase;
             font-weight: 600;
             font-family: "Titillium Web";
@@ -91,7 +91,7 @@ header {
             }
             .icon-wrapper{
                 position: absolute;
-                fill: white;
+                fill: black;
                 svg{
                     position: relative;
                     left: -125%;

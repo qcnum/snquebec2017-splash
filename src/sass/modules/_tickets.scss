@@ -56,6 +56,7 @@ section.tickets{
         @include rem-fontsize(22px);
         font-weight: 300;
         margin-bottom: rem(30px);
+        text-align: center;
         @include respond-to(767px) {
             text-align: center;
         }
