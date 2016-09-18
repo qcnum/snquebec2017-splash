@@ -3,7 +3,7 @@
 // ------------------------------ //
 
 header {
-    background-image: url('../img/header-bg.png');
+    background-image: url('../img/header-bg.jpg');
     background-size: cover;
     background-position: top center;
     height: 100vh;
@@ -14,7 +14,7 @@ header {
         height: auto;
         min-height: 0;
         padding: rem(60px) 0;
-        background-image: url('../img/header-bg-mobile.png');
+        background-image: url('../img/header-bg-mobile.jpg');
     }
 
     .title{
