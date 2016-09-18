@@ -72,27 +72,13 @@ section.tickets{
             @include rem-lineheight(20px);
             font-weight: 200;
             max-width: rem(300px);
-            padding-left: rem(75px);
             position: relative;
-            text-align: left;
+            text-align: center;
 
             @include respond-to(767px) {
                 display: block;
                 margin-left: auto;
                 margin-right: auto;
-            }
-
-            span{
-                display: block;
-                @include rem-lineheight(20px);
-            }
-            .icon-wrapper{
-                position: absolute;
-                fill: white;
-                img{
-                    position: relative;
-                    left: -125%;
-                }
             }
         }
     }
