@@ -1,3 +1,3 @@
-# Web à Québec 2017 - Promo page
+# SNQuébec 2017 - Promo page
 
 Complete readme to come soon, bit in a rush there...
