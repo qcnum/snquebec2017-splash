@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-person</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-610.000000, -1712.000000)" fill="#FFFFFF">
+            <g id="Infos" transform="translate(0.000000, 1275.000000)">
+                <g id="Group-7" transform="translate(186.000000, 104.000000)">
+                    <path d="M430.285714,337.615385 C430.285714,335.066378 432.396372,333 435,333 C437.603628,333 439.714286,335.066378 439.714286,337.615385 L439.714286,340.692308 C439.714286,343.241314 437.603628,345.307692 435,345.307692 C432.396372,345.307692 430.285714,343.241314 430.285714,340.692308 L430.285714,337.615385 Z M424,351.461538 C424.785714,349.153846 430.285714,346.846154 433.428571,346.846154 L436.571429,346.846154 C439.714286,346.846154 445.214286,349.153846 446,351.461538 L446,353 L424,353 L424,351.461538 Z" id="icon-person"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

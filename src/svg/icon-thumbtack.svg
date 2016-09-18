@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-thumbtack</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-610.000000, -1793.000000)" fill="#FFFFFF">
+            <g id="Infos" transform="translate(0.000000, 1275.000000)">
+                <g id="Group-7" transform="translate(186.000000, 104.000000)">
+                    <path d="M433.97297,429.711978 L440.583894,429.711978 L436.684699,425.040327 L436.684699,419.616071 L438.184358,419.616071 C438.846661,419.616071 439.508157,418.969474 439.508157,418.215494 L439.508157,416.85117 C439.508157,416.097189 438.846661,415.485928 438.184358,415.485928 L427.387053,415.485928 C426.72475,415.485928 426.197571,416.097189 426.197571,416.85117 L426.197571,418.215953 C426.197571,418.969474 426.72475,419.616071 427.387053,419.616071 L429.021028,419.616071 L429.021028,425.092642 L425.033903,429.711978 L431.644827,429.711978 L432.808898,437.193045 L433.97297,429.711978 L433.97297,429.711978 Z" id="icon-thumbtack" transform="translate(432.808898, 426.339487) rotate(38.000000) translate(-432.808898, -426.339487) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
